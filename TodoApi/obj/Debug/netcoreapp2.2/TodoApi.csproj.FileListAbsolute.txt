@@ -1,0 +1,14 @@
+D:\Projetos\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+D:\Projetos\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+D:\Projetos\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+D:\Projetos\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+D:\Projetos\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+D:\Projetos\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+D:\Projetos\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+D:\Projetos\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+D:\Projetos\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+D:\Projetos\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+D:\Projetos\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+D:\Projetos\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+D:\Projetos\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+D:\Projetos\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
